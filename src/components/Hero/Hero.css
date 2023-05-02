@@ -1,0 +1,13 @@
+.hero_img{
+    width: 500px;
+}
+
+@media (max-width:858px){
+    .hero_img{
+        width: 300px;
+        margin-left: 15px;
+    }
+    p{
+        font-size: 15px;
+    }
+}
